@@ -1,2 +1,2 @@
-# knot-fog-connector-iniot
-KNoT fog connector with In.IoT
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
